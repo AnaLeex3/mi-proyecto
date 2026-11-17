@@ -6,9 +6,9 @@ Repositorio de práctica para el diseño, la organización y el *version control
 
 | Carpeta | Descripción |
 |---|---|
-| `plan/` | Test plan (PLAN-001) |
-| `casos-de-prueba/` | Test cases con precondiciones, pasos y expected result (TC-LOGIN-001, TC-LOGIN-002) |
-| `defectos/` | Bug reports (BUG-001, ejemplo de práctica) |
+| `test-plan/` | Test plan (PLAN-001) |
+| `test-cases/` | Test cases con precondiciones, pasos y expected result (TC-LOGIN-001, TC-LOGIN-002) |
+| `defects/` | Bug reports (BUG-001, ejemplo de práctica) |
 
 ## Técnicas y conceptos aplicados
 
