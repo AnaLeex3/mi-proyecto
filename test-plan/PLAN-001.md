@@ -18,6 +18,7 @@ Verificar que el login permite el acceso a usuarios válidos y rechaza credencia
 ## Casos de prueba incluidos
 - TC-LOGIN-001: Login con datos válidos
 - TC-LOGIN-002: Login con contraseña incorrecta
+- TC-LOGIN-003: Bloqueo de cuenta tras 3 intentos fallidos
 
 ## Entorno
 Navegador Firefox, aplicación versión 1.0.

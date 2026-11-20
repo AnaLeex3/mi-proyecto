@@ -7,7 +7,7 @@ Repositorio de práctica para el diseño, la organización y el *version control
 | Carpeta | Descripción |
 |---|---|
 | `test-plan/` | Test plan (PLAN-001) |
-| `test-cases/` | Test cases con precondiciones, pasos y expected result (TC-LOGIN-001, TC-LOGIN-002) |
+| `test-cases/` | Test cases con precondiciones, pasos y expected result (TC-LOGIN-001, TC-LOGIN-002, TC-LOGIN-003) |
 | `defects/` | Bug reports (BUG-001, ejemplo de práctica) |
 | `traceability/` | Traceability matrix (RTM-001) |
 
